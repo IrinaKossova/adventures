@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/adventures/static/js/main.2d162c69.js",
+    "index.html": "/adventures/index.html",
+    "main.2d162c69.js.map": "/adventures/static/js/main.2d162c69.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2d162c69.js"
+  ]
+}
